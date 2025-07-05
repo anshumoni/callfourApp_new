@@ -1,0 +1,9 @@
+# Prevent system junk from being uploaded
+AppData/
+appdata/
+*.tmp
+*.log
+*.odlgz
+*.aodl
+*.tbres
+*.db
