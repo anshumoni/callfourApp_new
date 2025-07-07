@@ -55,8 +55,8 @@
   },
   "private": true,
   "overrides": {
-  "ajv-keywords": {
-    "ajv": "^8.17.1"
+    "ajv-keywords": {
+      "ajv": "^8.17.1"
+    }
   }
-}
 }
